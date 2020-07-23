@@ -1,0 +1,31 @@
+ASSIGNMENT-1(Python Essentials Batch-6 Day-1)
+
+1.What is python? What are the ways to install python in your pc?
+
+Python is an high-level, general-purpose programming language developed by Guido Van Rossum in 1991.
+
+Python is simple and easy to learn.
+It involves less code.
+Easier syntax.
+Huge amount of additional open-source libraries
+
+we can download it from python.org and install it but its a lengthy process. Instead we can install anaconda navigator which is the most popular data science platform and a open source distribution of the python.
+
+
+2.What is Code Environment? Types?
+
+Code Environment is a place where you can write the code, complie code and see the output of the code.
+
+Types:
+1.Text editors
+2.Full IDEs
+3.Notebook environment
+
+Text editors:
+The general editors for any text file like notepad and works with a variety of file types. Most popular one among them is visual studio.
+
+Full IDEs:
+Is the development environment designed specifically for python, lots of extra functionality. Spider for python.
+
+Notebook environment:
+It is great for learning, see the input and output next to each other. Support in-line markdown notes, visualization, videos and more.The most popular one is jupyter notebook
